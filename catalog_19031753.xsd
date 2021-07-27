@@ -1,0 +1,156 @@
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+	<xs:element name="SongStore">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="Shop" type="ShopType" />
+				<xs:element name="header" type="headerType" />
+				<xs:element name="Intro" type="xs:string" />
+				<xs:element name="quote" type="quoteType" />
+				<xs:element name="Songs" type="SongsType" />
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	
+	<xs:complexType name="ShopType">
+		<xs:group ref="shopElement"/>
+		<xs:attributeGroup ref="shopAtt" />
+	</xs:complexType>
+	
+	<xs:group name="shopElement">
+		<xs:sequence>
+			<xs:element name="shopLocation" type="xs:string" />
+			<xs:element name="shopNumber" type="xs:string" />
+			<xs:element name="shopWebsite" type="xs:string" />
+		</xs:sequence>
+	</xs:group>
+	
+	<xs:attributeGroup name="shopAtt">
+		<xs:attribute name="shopID" type="xs:string" />
+	</xs:attributeGroup>
+	
+	<xs:complexType name="headerType">
+		<xs:group ref="headerElement" />
+	</xs:complexType>
+	
+	<xs:group name="headerElement">
+		<xs:sequence>
+			<xs:element name="logo" type="xs:string" minOccurs="0" maxOccurs="1" />
+			<xs:element name="shopName" type="xs:string"/>
+		</xs:sequence>
+	</xs:group>
+	
+	<xs:complexType name="quoteType">
+		<xs:group ref="quoteElement"/>
+	</xs:complexType>
+	
+	<xs:group name="quoteElement">
+		<xs:sequence>
+			<xs:element name="q1" type="xs:string" />
+			<xs:element name="q2" type="xs:string" />
+			<xs:element name="q3" type="xs:string" />
+		</xs:sequence>
+	</xs:group>
+	
+	<xs:complexType name="SongsType">
+		<xs:sequence>
+			<xs:element name="song" type="songType" minOccurs="1" maxOccurs="unbounded"/>
+		</xs:sequence>
+	</xs:complexType>
+	
+	<xs:complexType name="songType">
+		<xs:sequence>
+			<xs:element name="songName" type="snType" minOccurs="0" maxOccurs="1"/>
+			<xs:element name="musicName" type="xs:string"/>
+			<xs:element name="songDescription" type="songDesType"/>
+			<xs:element name="songINFORMATION" type="songInfoType"/>
+		</xs:sequence>
+	</xs:complexType>
+	
+	<xs:complexType name="snType">
+		<xs:simpleContent>
+			<xs:extension base="xs:string">
+				<xs:attribute name="songID" use="required"/>
+			</xs:extension>
+		</xs:simpleContent>
+	</xs:complexType>
+	
+	<xs:complexType name="songDesType">
+		<xs:group ref="songDesElement"/>
+	</xs:complexType>
+	
+	<xs:group name="songDesElement">
+		<xs:sequence>
+			<xs:element name="h1" type="xs:string"/>
+			<xs:element name="p" type="xs:string"/>
+		</xs:sequence>
+	</xs:group>
+	
+	<xs:complexType name="songInfoType">
+		<xs:group ref="songInfoElement"/>
+	</xs:complexType>
+	
+	<xs:group name="songInfoElement">
+		<xs:sequence>
+			<xs:element name="Information" type="xs:string" />
+			<xs:element name="artist" type="artType" />
+			<xs:element name="genre" type="xs:string" />
+			<xs:element name="alblum" type="albType" />
+			<xs:element name="director" type="xs:string" minOccurs="0" maxOccurs="1"/>
+			<xs:element name="producer" type="xs:string" />
+			<xs:element name="writer" type="writType" />
+			<xs:element name="composer" type="xs:string" minOccurs="0" maxOccurs="1" />
+			<xs:element name="studio" type="xs:string" minOccurs="0" maxOccurs="1"/>
+			<xs:element name="recordDate" type="xs:string" minOccurs="0" maxOccurs="1"/>
+			<xs:element name="recordedBy" type="xs:string" minOccurs="0" maxOccurs="1"/>
+			<xs:element name="releaseDate" type="xs:string" minOccurs="0" maxOccurs="1"/>
+			<xs:element name="review" type="xs:string" />
+			<xs:element name="label" type="xs:string" minOccurs="0" maxOccurs="1"/>
+			<xs:element name="stock" type="stokType" />
+			<xs:element name="nomination" type="xs:string" minOccurs="0" maxOccurs="1"/>
+			<xs:element name="price" type="priType" />
+		</xs:sequence>
+	</xs:group>
+	
+	<xs:complexType name="artType">
+		<xs:simpleContent>
+			<xs:extension base="xs:string">
+				<xs:attribute name="artistID" use="required"/>
+			</xs:extension>
+		</xs:simpleContent>
+	</xs:complexType>
+	
+	<xs:complexType name="albType">
+		<xs:simpleContent>
+			<xs:extension base="xs:string">
+				<xs:attribute name="alblumID" use="required"/>
+			</xs:extension>
+		</xs:simpleContent>
+	</xs:complexType>
+	
+	<xs:complexType name="writType">
+		<xs:simpleContent>
+			<xs:extension base="xs:string">
+				<xs:attribute name="writerID" use="required"/>
+			</xs:extension>
+		</xs:simpleContent>
+	</xs:complexType>
+	
+	<xs:complexType name="stokType">
+		<xs:simpleContent>
+			<xs:extension base="xs:string">
+				<xs:attribute name="stockID" use="required"/>
+			</xs:extension>
+		</xs:simpleContent>
+	</xs:complexType>
+	
+	<xs:complexType name="priType">
+		<xs:simpleContent>
+			<xs:extension base="xs:string">
+				<xs:attribute name="priceID" use="required"/>
+			</xs:extension>
+		</xs:simpleContent>
+	</xs:complexType>
+	
+	
+</xs:schema>

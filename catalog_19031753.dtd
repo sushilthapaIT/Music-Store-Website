@@ -1,0 +1,65 @@
+<!ELEMENT SongStore (Shop,header,Intro,quote,Songs)>
+
+<!ELEMENT Shop (shopLocation,shopNumber,shopWebsite)>
+<!ATTLIST Shop shopID CDATA #REQUIRED>
+
+<!ELEMENT shopLocation (#PCDATA)>
+<!ELEMENT shopNumber (#PCDATA)>
+<!ELEMENT shopWebsite (#PCDATA)>
+
+<!ELEMENT header (logo?,shopName)>
+<!ELEMENT logo (#PCDATA)>
+<!ELEMENT shopName (#PCDATA)>
+
+<!ELEMENT Intro (#PCDATA)>
+
+<!ELEMENT quote (q1,q2,q3)>
+<!ELEMENT q1 (#PCDATA)>
+<!ELEMENT q2 (#PCDATA)>
+<!ELEMENT q3 (#PCDATA)>
+
+<!ELEMENT Songs (song+)>
+<!ELEMENT song (songName?, musicName, songDescription, songINFORMATION)>
+
+<!ELEMENT songName (#PCDATA)>
+<!ATTLIST songName songID CDATA #REQUIRED>
+
+<!ELEMENT musicName (#PCDATA)>
+
+<!ELEMENT songDescription (h1,p)>
+<!ELEMENT h1 (#PCDATA)>
+<!ELEMENT p (#PCDATA)>
+
+<!ELEMENT songINFORMATION (Information, artist, genre, alblum, director?, producer, writer, composer?, studio?, recordDate?, recordedBy?, releaseDate?, review, label?, stock, nomination?, price)>
+<!ELEMENT Information (#PCDATA)>
+
+<!ELEMENT artist (#PCDATA)>
+<!ATTLIST artist artistID CDATA #REQUIRED>
+
+<!ELEMENT genre (#PCDATA)>
+
+<!ELEMENT alblum (#PCDATA)>
+<!ATTLIST alblum alblumID CDATA #REQUIRED>
+
+<!ELEMENT director (#PCDATA)>
+<!ELEMENT producer (#PCDATA)>
+
+<!ELEMENT writer (#PCDATA)>
+<!ATTLIST writer writerID CDATA #REQUIRED>
+
+<!ELEMENT composer (#PCDATA)>
+<!ELEMENT studio (#PCDATA)>
+<!ELEMENT recordDate (#PCDATA)>
+<!ELEMENT recordedBy (#PCDATA)>
+<!ELEMENT releaseDate (#PCDATA)>
+<!ELEMENT review (#PCDATA)>
+<!ELEMENT label (#PCDATA)>
+
+<!ELEMENT stock (#PCDATA)>
+<!ATTLIST stock stockID CDATA #REQUIRED>
+
+<!ELEMENT nomination (#PCDATA)>
+
+<!ELEMENT price (#PCDATA)>
+<!ATTLIST price priceID CDATA #REQUIRED>
+

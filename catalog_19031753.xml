@@ -1,0 +1,610 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <?xml-stylesheet types="text/css" href="catalog_19031753.css"?> 
+ <!DOCTYPE SongStore SYSTEM "catalog_19031753.dtd"> 
+<SongStore xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+				xsi:noNamespaceSchemaLocation="catalog_19031753.xsd">
+
+	<Shop shopID="SH11-10">
+		<shopLocation>Address: Durbarmaarg,Nepal</shopLocation>
+		<shopNumber>Phone Number: 012377592</shopNumber>
+		<shopWebsite>Website: www.dynamitemusic.com.np</shopWebsite>
+	</Shop>
+	<header>
+		<logo></logo>
+		<shopName>DYNAMiTE Music Store</shopName>
+	</header>
+	<Intro>Music For All</Intro>
+	<quote>
+	<q1>1990-2020</q1>
+	<q2>Music Collections</q2>
+	<q3>Available with Us Follow US</q3>
+	</quote>
+	<Songs>
+		<song>	
+			<songName songID="S1" ></songName>
+			<musicName>Beautiful</musicName>
+			<songDescription>
+					<h1>Description</h1>
+					<p>
+					On this melancholy song Eminem raps about his struggles with drug addiction. In August 2005
+					Eminem entered drug rehabilitation in order to treat a dependency on sleep medication. He subsequently
+					took a break during which he battled his addiction whilst industry insiders speculated that Shady had
+					ended his rapping career. Eminem is now sober and he told Vibe magazine that this song is the only one
+					he kept from the recordings he made during that dark period in his life. He explained: "One of the only
+					reasons that I put that track on there is that I feel like it's the best song out of that batch that I 
+					did when I wasn't sober. At the time I felt like, 'This is it for me.' I wrote the first verse and a 
+					half in rehab, and when I came out, I finished it. It was the only song that marks that period without 
+					bringing me back to that place. Every other track not only didn't fit with the album, but when I listened
+					to it, it would bring up bad memories. This was the 5th song of that title to chart in the Hot 100."
+					</p>
+			</songDescription>
+			<songINFORMATION>
+				<Information>Information</Information>
+				<artist artistID="01" >Artist: Eminem</artist>
+				<genre>Genres: Hip hop, Rap rock, Hip-Hop/Rap</genre>
+				<alblum alblumID="A1" >Alblum: Relapse</alblum>
+				<director>Director: Mike Strange</director>
+				<producer>Producers: Eminem, Jeff Bass</producer>
+				<writer writerID="00W1" >Songwriters: Marshall Mathers, Luis Resto, Jeffrey Bass, Don Black, Andy Hill</writer>
+				<composer>Composer: Marshall Mathers, Luis Resto</composer>
+				<studio>Recorded At: Aftermath Entertainment</studio>
+				<recordDate>Recorded: 2007</recordDate>
+				<recordedBy>Recorderd by: Mike Strange at 54 Sound in Ferndale, Michigan</recordedBy>
+				<releaseDate>Released Year: 2009</releaseDate>
+				<review>Review: 4star by Billboard</review>
+				<stock stockID="S01" >Stock: Available</stock>
+				<price priceID="PS1" >Price: 10$</price>
+			</songINFORMATION>
+		</song>
+		
+		
+		
+		
+		
+		
+		<song>
+			<songName songID="S2" ></songName>
+			<musicName>"Godzilla"</musicName>
+			<songDescription>
+					<h1>Description: </h1>
+					<p>
+					"Godzilla" is a success in the United States and Europe. It debuted at number one in
+					Finland and on both the UK Singles Chart and the Irish Singles Chart, becoming Eminem's
+					tenth and ninth number-one single in the UK and Ireland, respectively, as well as the first
+					for Juice Wrld posthumously and in total in both countries. It also went to number two in Flanders,
+					the Czech Republic, Hungary, New Zealand, and Slovakia. It went to number three in Eminem's homeland,
+					the United States, and went top ten in 20 regions. Outside Europe, it saw moderate success in Lebanon
+					and Singapore, peaking inside the top 20 in those regions. As of November 3, the song has sold more than
+					3 million units in the US and became eligible for 3 times platinum.
+					</p>
+			</songDescription>
+			<songINFORMATION>
+				<Information>Information</Information>
+				<artist artistID="02" >Artist: Eminem ft. Juice WRLD</artist>
+				<genre>Genres:  Alternative Hip-Hop/Rap</genre>
+				<alblum alblumID="A2" >Alblum: Music to Be Murdered By</alblum>
+				<director>Director: Taylor Randall</director>
+				<producer>Producers: Eminem, D.A. Doman</producer>
+				<writer writerID="00W2" >Songwriters: Marshall Mathers, Jarad Higgins, David Doman, Luis Resto, Alejandro Villasana</writer>
+				<composer>Composer: Marshall Mathers, Luis Resto</composer>
+				<studio>Recorded At: Shady Records</studio>
+				<recordDate>Recorded: 2019</recordDate>
+				<recordedBy>Recorderd by: Mike Strange at 54 Sound in Ferndale, Michigan</recordedBy>
+				<releaseDate>Released Year: Janaury 28, 2020</releaseDate>
+				<review>Review: 4star by Billboard</review>
+				<stock stockID="S02" >Stock: Available</stock>
+				<price priceID="PS2" >Price: 9$</price>
+			</songINFORMATION>
+		</song>
+		
+		
+		
+		
+		
+		
+		<song>
+			<songName songID="S3" ></songName>
+			<musicName>"Junkeri/Fireflies"</musicName>
+			<songDescription>
+					<h1>Description: </h1>
+					<p>
+					Maya (English:Love) is the second studio album by Nepali singer and songwriter Bipul Chettri. 
+					It was released on September 2, 2016 by OKListen Media and Bipul Chettri. The album is about
+					his love for the Nepalese countryside hills that Chettri call's his home and the album is follow-up
+					to Sketches of Darjeeling."
+					</p>
+			</songDescription>
+			<songINFORMATION>
+				<Information>Information</Information>
+				<artist artistID="03" >Artist: Bipil Chettri</artist>
+				<genre>Genres: Nepali Folk</genre>
+				<alblum alblumID="A3" >Alblum: Maya</alblum>
+				<director>Director: Bipul Chettr</director>
+				<producer>Producers: Sonam Tashi</producer>
+				<writer writerID="00W3" >Songwriters: Bipul Chettri</writer>
+				<composer>Composer: Bipul Chettr</composer>
+				<studio>Recorded At: Anindo Bose at ‘Plug ‘N’ Play’ Studios, India</studio>
+				<recordDate>Recorded: September 2, 2016</recordDate>
+				<recordedBy>Recorderd by: Binaya Man Amatya, Kathmandu, Nepal</recordedBy>
+				<releaseDate>Released Year: 2009</releaseDate>
+				<review>Review: 5star by MUSIC NEPAL</review>
+				<stock stockID="S03" >Stock: Available</stock>
+				<price priceID="PS3" >Price: 5$</price>
+			</songINFORMATION>
+		</song>
+		
+		
+		
+		
+		
+		
+		<song>
+			<songName songID="S4" ></songName>
+			<musicName>"Life's A Mess"</musicName>
+			<songDescription>
+					<h1>Description</h1>
+					<p>
+					"Life's a Mess" is a song by American singers Juice Wrld and Halsey. It was released on July 6, 2020
+					through Grade A Productions under exclusive license to Interscope Records as the third single for Juice
+					Wrld's posthumous third studio album, Legends Never Die, and was later included on Halsey's Collabs EP
+					that dropped 3 weeks after. It was released the same day that Juice Wrld's estate announced the album
+					and the release date of it. This marks the second collaboration between the two artists, following the
+					remix of Halsey's chart-topping single "Without Me".
+					</p>
+			</songDescription>
+			<songINFORMATION>
+				<Information>Information</Information>
+				<artist artistID="04" >Artist: Juice WRLD, Halsey</artist>
+				<genre>Genres: 	Emo rap-pop</genre>
+				<alblum alblumID="A4" >Alblum: Legends Never Die</alblum>
+				<director>Director: Luis Resto</director>
+				<producer>Producers:  Rex Kudo; Heavy Mellow; Rick Rubin</producer>
+				<writer writerID="00W4" >Songwriters: Jarad Higgins, Ashley Frangipane, Ryan Vojesak, Masamune Kudo</writer>
+				<composer>Composer: Marshall Mathers, Luis Resto</composer>
+				<studio>Recorded At: Aftermath Entertainment</studio>
+				<recordDate>Recorded: 2019</recordDate>
+				<recordedBy>Recorderd by: Mike Strange at 54 Sound in Ferndale, Michigan</recordedBy>
+				<releaseDate>Released Year: July 6, 2020</releaseDate>
+				<review>Review: 4star by Billboard</review>
+				<stock stockID="S04" >Stock: Available</stock>
+				<price priceID="PS4" >Price: 7$</price>
+			</songINFORMATION>
+		</song>
+		
+		
+		
+		
+		
+		
+		<song>
+			<songName songID="S5" ></songName>
+			<musicName>"Tightrope"</musicName>
+			<songDescription>
+					<h1>Description</h1>
+					<p>
+					Nobody Is Listening is the third solo studio album by English singer-songwriter Zayn. 
+					"Tightrope" is an acoustic-based love song that talks about how love and life are a balancing act.
+					The deeper Zayn plunges into the relationship, the further the fall will be if it all goes wrong.
+					Sometimes the singer feels insecure about committing himself more, but when he feels his grip is going,
+					his lover is still there, holding onto his arm.
+					</p>
+			</songDescription>
+			<songINFORMATION>
+				<Information>Information</Information>
+				<artist artistID="05" >Artist: Zayn Malik</artist>
+				<genre>Genres: 	Pop RB</genre>
+				<alblum alblumID="A5" >Alblum: Nobody Is Listening</alblum>
+				<director>Director: Mike Strange</director>
+				<producer>Producers: Zayn Malik, Charlie Handsome,David Harris, Ernest Keith Smith, Henrique Andrade</producer>
+				<writer writerID="00W5" >Songwriters: Zayn Malik</writer>
+				<composer>Composer: Unicorn Waves, Zachary Seman</composer>
+				<studio>Recorded At: Major Tom's (London)Germano, the Mastering Place (New York City)</studio>
+				<recordDate>Recorded: 2021</recordDate>
+				<recordedBy>Recorderd by: Major Tom's </recordedBy>
+				<releaseDate>Released Year: 15 January 2021</releaseDate>
+				<review>Review: 6 star by Billboard</review>
+				<stock stockID="S05" >Stock: Available</stock>
+				<price priceID="PS5" >Price: 12$</price>
+			</songINFORMATION>
+		</song>
+		
+		
+		
+		
+		
+		
+		<song>
+			<songName songID="S6" ></songName>
+			<musicName>"Save Your Tears"</musicName>
+			<songDescription>
+					<h1>Description</h1>
+					<p>
+					"Save Your Tears" is a song by Canadian singer the Weeknd for his fourth studio album After Hours (2020).
+					"Save Your Tears" received universal acclaim. Billboard hailed the song as the best track on After Hours,
+					stating: “Although "Save Your Tears" is one of the most pop-driven songs on the album, The Weeknd doesn't 
+					hold back when it comes to the rather cold nature he usually finds himself adopting when it comes to his lovers.
+					The production remains upbeat and steady the entire time, thanks to work from Max Martin, Oscar Holter, DaHeala,
+					and The Weeknd himself, combining the best of his old content and some newer, more mainstream-driven sounds”.
+					</p>
+			</songDescription>
+			<songINFORMATION>
+				<Information>Information</Information>
+				<artist artistID="06" >Artist: The Weeknd </artist>
+				<genre>Genres: Synth-pop, synthwave</genre>
+				<alblum alblumID="A6" >Alblum: After Hours</alblum>
+				<director>Director: Cliqua</director>
+				<producer>Producers: Jerad Anderson</producer>
+				<writer writerID="00W6" >Songwriters: Abel Tesfaye, Ahmad Balshe, Jason Quenneville, Max Martin, Oscar Holter</writer>
+				<composer>Composer: Christian Stropko</composer>
+				<studio>Recorded At: House Mouse Studios (Stockholm, Sweden)</studio>
+				<recordDate>Recorded: 2019–2020</recordDate>
+				<recordedBy>Recorderd by: Mike Strange at 54 Sound in Ferndale, Michigan</recordedBy>
+				<releaseDate>Released Year: August 9, 2020</releaseDate>
+				<review>Review: 6 star by Billboard</review>
+				<stock stockID="S06" >Stock: Available</stock>
+				<price priceID="PS6" >Price: 5$</price>
+			</songINFORMATION>
+		</song>
+		
+		
+		
+		
+		
+		
+		<song>
+			<songName songID="S7" ></songName>
+			<musicName>"Congratulations"</musicName>
+			<songDescription>
+					<h1>Description</h1>
+					<p>
+					"Congratulations" is a song by American rapper and singer Post Malone, featuring vocals from American rapper Quavo,
+					from the hip hop trio Migos.The song peaked at number eight on the US Billboard Hot 100, becoming Post Malone's second
+					top 20 hit, following his debut single, "White Iverson", and first top 10 hit, and has spent a total of 50 weeks on the chart.
+					The song was certified Diamond (10× Platinum) by the Recording Industry Association of America (RIAA) for combined sales and 
+					streaming equivalent units of over 10 million units in the United States.
+					</p>
+			</songDescription>
+			<songINFORMATION>
+				<Information>Information</Information>
+				<artist artistID="07" >Artist: Post Malone ft. Quavo</artist>
+				<genre>Genres: Trap</genre>
+				<alblum alblumID="A7" >Alblum: "Rockstar"</alblum>
+				<director>Director: James DeFina</director>
+				<producer>Producers: Metro Boomin, Frank Dukes, Louis Bell</producer>
+				<writer writerID="00W7" >Songwriters: Austin Post, Quavious Marshall, Adam Feeney, Leland Wayne, Louis Bell</writer>
+				<composer>Composer: Marshall Mathers, Luis Resto</composer>
+				<studio>Recorded At: a division of UMG Recordings, Inc.</studio>
+				<recordedBy>Recorderd by:  James DeFina, Chris Velona</recordedBy>
+				<releaseDate>Released Year: January 31, 2017</releaseDate>
+				<review>Review: 7 star by Billboard</review>
+				<stock stockID="S07" >Stock: Available</stock>
+				<price priceID="PS7" >Price: 15$</price>
+			</songINFORMATION>
+		</song>
+		
+		
+		
+		
+		
+		
+		<song>
+			<songName songID="S8" ></songName>
+			<musicName>"I Took a Pill in Ibiza"</musicName>
+			<songDescription>
+					<h1>Description</h1>
+					<p>
+					"I Took a Pill in Ibiza" (also known by its censored title "In Ibiza" or its clean title 
+					"I Took a Plane to Ibiza")[citation needed] is a song by American singer Mike Posner. The
+					song, originally acoustic guitar-based, was remixed by Norwegian production duo Seeb and released
+					digitally as a single in the United States on April 14, 2015.
+					</p>
+			</songDescription>
+			<songINFORMATION>
+				<Information>Information</Information>
+				<artist artistID="08" >Artist: Mike Posner</artist>
+				<genre>Genres: Folk pop (original version)Tropical house (Seeb remix)</genre>
+				<alblum alblumID="A8" >Alblum: Be As You Are</alblum>
+				<director>Director: Mike Strange</director>
+				<producer>Producers: Mike Posner, Seeb, Martin Terefe</producer>
+				<writer writerID="00W8" >Songwriters: Mike Posner</writer>
+				<composer>Composer: Mike Posner</composer>
+				<studio>Recorded At:  Island Records, a division of UMG Recordings, Inc.</studio>
+				<recordDate>Recorded: 2015</recordDate>
+				<recordedBy>Recorderd by: Doja Cat</recordedBy>
+				<releaseDate>Released Year: April 14, 2015 (original version)July 24, 2015 (SeeB remix)</releaseDate>
+				<review>Review: 3 star by Billboard</review>
+				<label>Label: Interscope</label>
+				<stock stockID="S08" >Stock: Available</stock>
+				<nomination>Nominations: Grammy Award for Song of the Year</nomination>
+				<price priceID="PS8" >Price: 3$</price>
+			</songINFORMATION>
+		</song>
+		
+		
+		
+		
+		
+		
+		<song>
+			<songName songID="S9" ></songName>
+			<musicName>"Rude-MAGIC!"</musicName>
+			<songDescription>
+					<h1>Description</h1>
+					<p>
+					"Rude" is the debut single by Canadian band Magic! from their debut studio album, Don't Kill the Magic.
+					It was originally released on October 11, 2013, as a promotional single and then re-released on February 24, 2014,
+					by Sony Music Entertainment.
+					</p>
+			</songDescription>
+			<songINFORMATION>
+				<Information>Information</Information>
+				<artist artistID="09" >Artist: MAGIC!</artist>
+				<genre>Genres: Reggae fusion</genre>
+				<alblum alblumID="A9" >Alblum: Don't Kill the Magic</alblum>
+				<director>Director: Mike Strange</director>
+				<producer>Producers: Adam Messinger</producer>
+				<writer writerID="OOW9" >Songwriters: Nasri, Adam Messinger, Mark Pellizzer, Ben Spivak and Alex Tanas</writer>
+				<composer>Composer: Adam Messinger</composer>
+				<recordDate>Recorded: 2013</recordDate>
+				<recordedBy>Recorderd by: Doris Day</recordedBy>
+				<releaseDate>Released Year: February 24, 2014</releaseDate>
+				<review>Review: 7 star by Billboard</review>
+				<stock stockID="S09" >Stock: Available</stock>
+				<price priceID="PS9" >Price: 2$</price>
+			</songINFORMATION>
+		</song>
+		
+		
+		
+		
+		
+		
+		<song>
+			<songName songID="S10" ></songName>
+			<musicName>"All Eyez on Me"</musicName>
+			<songDescription>
+					<h1>Description</h1>
+					<p>
+					All Eyez on Me is the fourth studio album by American rapper 2Pac and the last to be released during his lifetime.
+					Released on February 13, 1996, by Death Row Records and Interscope Records, All Eyez on Me features guest appearances 
+					from several artists including the Outlawz, Dr. Dre, Snoop Dogg, George Clinton, E-40, Redman, Method Man, Tha Dogg Pound,
+					K-Ci JoJo, Roger Troutman, among others. The album features productions by Shakur alongside a variety of producers, 
+					including DJ Quik, Johnny "J", Dr. Dre, Rick Rock, Daz Dillinger, DJ Pooh, DeVante Swing, among others.
+					</p>
+			</songDescription>
+			<songINFORMATION>
+				<Information>Information</Information>
+				<artist artistID="010" >Artist: 2Pac</artist>
+				<genre>Genres:West Coast hip hopgangsta rap, conscious rap, political rap</genre>
+				<alblum alblumID="A10" >Alblum: The Don Killuminati: The 7 Day Theory</alblum>
+				<producer>Producers: Suge Knight (exec.), 2Pac, DJ Bobcat, Daz Dillinger, DeVante Swing, DJ Pooh, DJ Quik</producer>
+				<writer writerID="OOW10" >Songwriters: 2Pac</writer>
+				<studio>Recorded At: Can-Am Studios, Los Angeles, California</studio>
+				<recordDate>Recorded: October 13–October 27, 1995</recordDate>
+				<releaseDate>Released Year: February 13, 1996</releaseDate>
+				<review>Review: 9 star by Billboard</review>
+				<label>Label: Death Row, Interscope</label>
+				<stock stockID="S010" >Stock: Available</stock>
+				<price priceID="PS10" >Price: 20$</price>
+			</songINFORMATION>
+		</song>
+		
+		
+		
+		
+		
+		
+		<song>
+			<songName songID="S11" ></songName>
+			<musicName>"You da One"</musicName>
+			<songDescription>
+					<h1>Description</h1>
+					<p>
+					"You da One" is a song by Bajan recording artist Rihanna recorded for her sixth studio album,
+					Talk That Talk (2011). It was co-written by Rihanna with Ester Dean, Henry Walter, John Hill
+					and Lukasz Gottwald. Production of the song was completed by Gottwald, under his production
+					name Dr. Luke, and Cirkut. Kuk Harrell and Marcas Tovar recorded the track at the Sofital
+					Paris Le Laubourg, Room 538, and Westlake Recording Studios in Los Angeles, California.
+					</p>
+			</songDescription>
+			<songINFORMATION>
+				<Information>Information</Information>
+				<artist artistID="011" >Artist: Rihanna</artist>
+				<genre>Genres: Pop, reggae</genre>
+				<alblum alblumID="A11" >Alblum: Talk That Talk</alblum>
+				<producer>Producers: Dr. Luke, Cirkut, Kuk Harrell</producer>
+				<writer writerID="00W11" >Songwriters: Ester Dean, Lukasz Gottwald, Robyn Fenty, John Hill, Henry Walter</writer>
+				<studio>Recorded At: Westlake Recording Studios</studio>
+				<recordDate>Recorded: 2011</recordDate>
+				<releaseDate>Released Year: November 14, 2011</releaseDate>
+				<review>Review: 7 star by Billboard</review>
+				<label>Label: Def Jam, SRP</label>
+				<stock stockID="S011" >Stock: Available</stock>
+				<price priceID="PS11" >Price: 9$</price>
+			</songINFORMATION>
+		</song>
+		
+		
+		
+		
+		
+		
+		<song>
+			<songName songID="S12" ></songName>
+			<musicName>"Hamro Nepal Ma"</musicName>
+			<songDescription>
+					<h1>Description</h1>
+					<p>
+					Hamro Nepal Ma is another acoustic cover by Neetesh Jung Kunwar.
+					This song is another great composition of Neetesh Jung Kunwar.
+					This song denotes the empty portion of life which obviously gets 
+					incomplete in the process of making money and being equivalent to machine.
+					</p>
+			</songDescription>
+			<songINFORMATION>
+				<Information>Information</Information>
+				<artist artistID="012" >Artist: Neetesh Jung Kunwar</artist>
+				<genre>Genres: Nepali Pop</genre>
+				<alblum alblumID="A12" >Alblum: Hamro Nepal Ma</alblum>
+				<producer>Producers: Neetesh Jung Kunwar</producer>
+				<writer writerID="00W12" >Songwriters: Neetesh Jung Kunwar</writer>
+				<composer>Composer: Chetan Raj Karki</composer>
+				<studio>Recorded At: Orange Studio</studio>
+				<recordDate>Recorded: 2017</recordDate>
+				<recordedBy>Recorderd by: Chetan Raj Karki(Orange Studio)</recordedBy>
+				<releaseDate>Released Year: Jan 1, 2018</releaseDate>
+				<review>Review: 4 star by Nepal Music</review>
+				<stock stockID="S012" >Stock: Available</stock>
+				<price priceID="PS12" >Price: 3$</price>
+			</songINFORMATION>
+		</song>
+		
+		
+		
+		
+		
+		
+		<song>
+			<songName songID="S13" ></songName>
+			<musicName>"Kaalo 2.0"</musicName>
+			<songDescription>
+					<h1>Description</h1>
+					<p>
+					Kaalo 2.0 Lyrics and Rap Details: Kaalo 2.0 is written and
+					performed by Uniq Poet and released on Year 2020. View: kaalo
+					Lyrics Song Title Kaalo 2.0 Rapper Uniq Poet Released Year 2020 Music Video Kaalo 2.0.
+					</p>
+			</songDescription>
+			<songINFORMATION>
+				<Information>Information</Information>
+				<artist artistID="013" >Artist: Uniq Poet</artist>
+				<genre>Genres: Hip hop, Rap rock, Hip-Hop/Rap</genre>
+				<alblum alblumID="A13">Alblum: Kaalo</alblum>
+				<director>Director: the_dumb_director_ (Lense Entertainment)</director>
+				<producer>Producers: beatsbyhype, Trap Nepal​</producer>
+				<writer writerID="00W13" >Songwriters: Uniq Poet</writer>
+				<studio>Recorded At: Aftermath Entertainment</studio>
+				<recordDate>Recorded: 2020</recordDate>
+				<recordedBy>Recorderd by: Shreejanshyamaa (Donob Productions)</recordedBy>
+				<releaseDate>Released Year: jan 28, 2020</releaseDate>
+				<review>Review: 6 star by Music Nepal</review>
+				<stock stockID="SO13" >Stock: Available</stock>
+				<price priceID="PS13" >Price: 8 $</price>
+			</songINFORMATION>
+		</song>
+		
+		
+		
+		
+		
+		
+		<song>
+			<songName songID="S14" ></songName>
+			<musicName>"Gucci Gang"</musicName>
+			<songDescription>
+					<h1>Description</h1>
+					<p>
+					"Gucci Gang" is a song by American hip hop artist Lil Pump.
+					It is produced by Bighead and co-produced by Gnealz, and is
+					the fifth single from Lil Pump's debut album, Lil Pump. It 
+					was originally released on Pump's SoundCloud account on August
+					28, 2017, and was later made available for digital download and
+					streaming by Tha Lights Global and Warner Bros. Records on August 30, 2017.
+					</p>
+			</songDescription>
+			<songINFORMATION>
+				<Information>Information</Information>
+				<artist artistID="014" >Artist: Lil Pump</artist>
+				<genre>Genres: Hip hop, trap</genre>
+				<alblum alblumID="A14" >Alblum: Designer</alblum>
+				<director>Director: Bighead</director>
+				<producer>Producers: Bighead, Gnealz</producer>
+				<writer writerID="00W14" >Songwriters: Gazzy Garcia, Brenden Murray, Gerrell Nealy</writer>
+				<composer>Composer: Gerrell Nealy</composer>
+				<studio>Recorded At: Aftermath Entertainment</studio>
+				<recordDate>Recorded: 2017</recordDate>
+				<recordedBy>Recorderd by: Mike lil Strange</recordedBy>
+				<releaseDate>Released Year:	August 30, 2017</releaseDate>
+				<review>Review: 2 star by Billboard</review>
+				<label>Label: Tha lights Global, Warner</label>
+				<stock stockID="S014" >Stock: Available</stock>
+				<price priceID="PS14" >Price: 1$</price>
+			</songINFORMATION>
+		</song>
+		
+		
+		
+		
+		
+		
+		<song>
+			<songName songID="S15" ></songName>
+			<musicName>"Sad!"</musicName>
+			<songDescription>
+					<h1>Description</h1>
+					<p>
+					"Sad!" (stylized in all-caps) is a song by American rapper XXXTentacion
+					from his second studio album, ? (2018). It was released as the lead single
+					from the album on March 2, 2018. The track was produced by John Cunningham,
+					and written by XXXTentacion. The song is XXXTentacion's highest charting
+					in the United States, peaking at number one on the Billboard Hot 100 following his death on June 18, 2018.
+					</p>
+			</songDescription>
+			<songINFORMATION>
+				<Information>Information</Information>
+				<artist artistID="015" >Artist: XXXTentacion</artist>
+				<genre>Genres: Cloud rap, alternative RandB, emo rap</genre>
+				<alblum alblumID="A15" >Alblum: ?</alblum>
+				<director>Director: Dave Kutch</director>
+				<producer>Producers: Cunningham</producer>
+				<writer writerID="00W15" >Songwriters: Jahseh Onfroy, John Cunningham</writer>
+				<composer>Composer: Luis Resto</composer>
+				<studio>Recorded At: Rushcutters Bay</studio>
+				<recordDate>Recorded: 2018</recordDate>
+				<recordedBy>Recorderd by: Seven Michael</recordedBy>
+				<releaseDate>Released Year: March 2, 2018</releaseDate>
+				<review>Review: 8 star by Billboard</review>
+				<stock stockID="S015" >Stock: Available</stock>
+				<price priceID="PS15" >Price: 6$</price>
+			</songINFORMATION>
+		</song>
+		
+		
+		
+		
+		
+		
+		<song>
+			<songName songID="S16" ></songName>
+			<musicName>"Summer"</musicName>
+			<songDescription>
+					<h1>Description</h1>
+					<p>
+					"Summer" is a progressive house song by Scottish recording artist Calvin Harris,
+					released on 14 March 2014 as the second single from his fourth studio album,
+					Motion (2014). Like his earlier single "Feel So Close" and his later single
+					"My Way", Harris returns as a vocalist on "Summer". The accompanying music
+					video was directed by Emil Nava and premiered on 6 April 2014.
+					</p>
+			</songDescription>
+			<songINFORMATION>
+				<Information>Information</Information>
+				<artist artistID="016" >Artist: Calvin Harris</artist>
+				<genre>Genres: Progressive house</genre>
+				<alblum alblumID="A16" >Alblum: Blame</alblum>
+				<director>Director: Mike Mill</director>
+				<producer>Producers: Calvin Harris</producer>
+				<writer writerID="0016" >Songwriters:Calvin Harris</writer>
+				<composer>Composer: Calvin Harris</composer>
+				<studio>Recorded At: Harris Production</studio>
+				<recordDate>Recorded: 2014</recordDate>
+				<recordedBy>Recorderd by: Calvin Harris</recordedBy>
+				<releaseDate>Released Year: 14 March 2014</releaseDate>
+				<review>Review: 9 star by Billboard</review>
+				<label>Label: Deconstruction, Fly Eye, Columbbia</label>
+				<stock stockID="SO16" >Stock: Available</stock>
+				<price priceID="PS16" >Price: 29$</price>
+			</songINFORMATION>
+		</song>
+	</Songs>
+</SongStore>

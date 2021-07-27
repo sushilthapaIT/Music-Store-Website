@@ -1,0 +1,422 @@
+shopName {
+	display: block;
+    width: 358px;
+    font-family: Arial, Helvetica, Sans-serif;
+    font-size: 44pt;
+    right: 107px;
+	margin-bottom: 10%;
+	margin-left: 40%;
+	margin-right: 0%;
+    border: 11px solid #e25757;
+    box-shadow: 20px 20px 50px rgb(0 0 0 / 50%);
+    border-radius: 47px;
+    background: rgba(255,155,155,0.1);
+    overflow: hiddem;
+    color: azure;
+    text-align: justify;
+    font-family: cursive;
+	}
+
+shopLocation {    
+	display: block;
+    width: 336px;
+    font-family: Arial, Helvetica, Sans-serif;
+    font-size: 18pt;
+    right: 107px;
+    margin: 5%;
+    border: 2px solid #e25757;
+    box-shadow: 20px 20px 50px rgb(0 0 0 / 50%);
+    border-radius: 47px;
+    background: rgba(255,155,155,0.1);
+    overflow: hiddem;
+    color: azure;
+    text-align: justify;
+    font-family: cursive;
+	}
+			
+shopWebsite {    display: block;
+    width: 426px;
+    font-family: Arial, Helvetica, Sans-serif;
+    font-size: 18pt;
+    right: 107px;
+    margin: 5%;
+    border: 2px solid #e25757;
+    box-shadow: 20px 20px 50px rgb(0 0 0 / 50%);
+    border-radius: 47px;
+    background: rgba(255,155,155,0.1);
+    overflow: hiddem;
+    color: azure;
+    text-align: justify;
+    font-family: cursive;}
+	
+shopNumber  {
+    display: block;
+    width: 336px;
+    font-family: Arial, Helvetica, Sans-serif;
+    font-size: 18pt;
+    right: 107px;
+    margin: 5%;
+    border: 2px solid #e25757;
+    box-shadow: 20px 20px 50px rgb(0 0 0 / 50%);
+    border-radius: 47px;
+    background: rgba(255,155,155,0.1);
+    overflow: hiddem;
+    color: azure;
+    text-align: justify;
+    font-family: cursive;}
+
+musicName {        
+	display: grid;
+    width: 1257px;
+    font-family: Luminari, fantasy;
+    font-size: 53pt;
+    color: ivory;
+    border-bottom: 13px solid ivory;
+    margin-left: 20px;
+    margin-top: 61px;
+	}
+artist   {    
+	display: block;
+    width: 625px;
+    font-family: math;
+    font-size: 30pt;
+    color: ivory;
+    text-align: right;
+    margin-left: 20px;
+    margin-top: 10px; }
+
+genre, alblum,recordedBy,nomination, director, producer, writer, composer, studio, recordDate, releaseDate, review, stock, price, label       {    
+	display: list-item;
+    font-family: Times New Roman, Times, Serif;
+    font-size: 12pt;
+    list-style-type: square;
+    border: 3px solid #9c4c7f;
+    background-color: beige;
+    margin-left: 39px;
+    padding: 1px;
+    box-shadow: 20px 20px 50px rgb(0 0 0 / 50%);
+    border-radius: 71px;
+    background: rgba(255,155,155,0.1);
+    overflow: hiddem;
+    text-align: justify;
+    font-family: cursive;
+    color: azure;}
+			
+
+songDescription{ 
+position: relative;
+width:441px;
+height: 455px;
+display:block;
+border:4px solid black; 
+ padding:23px;
+margin: 30px;
+box-shadow: 20px 20px 50px rgba(0,0,0,0.5);
+border-radius: 15px;
+background: rgba(255,155,155,0.1);
+overflow: hiddem;
+text-align: justify;
+font-family: cursive;
+    color: azure;
+justify-content:center;
+align-items: center;
+border-top: 1px solid  rgba(255, 255, 255, 0.5);
+border-left: 1px solid  rgba(255, 255, 255, 0.5);
+backdrop-filter: blur(5px);   
+    transform: translate(100px);
+    opacity: 0;
+    transition: 0.5s;    }
+	
+songDescription:hover{    transform: translateY(0px);
+    opacity: 1;}
+
+SongStore{    margin: 0;
+    font-family: Roboto,Helvetica Neue,Arial;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #202020;
+    text-align: left;
+	color: azure;
+    background-color: #202020;}
+
+h1 {display: table;
+    font-family: Times New Roman, Times, Serif;
+    font-size: 16pt;
+    border: 6px solid #cc84b9;
+    background-color: beige;
+    margin-left: 50px box-shadow: 20px 20px 50px rgba(0,0,0,0.5);
+    border-radius: 9px;
+    background: rgba(255,155,155,0.1);
+    overflow: hiddem;
+    text-align: justify;
+    font-family: initial;}
+	
+Information {display: list-item; font-family: Times New Roman, Times, Serif; 
+            font-size:12pt; list-style-type:square;  border:2px solid red; background-color:beige;
+            margin-left: 50px box-shadow: 20px 20px 50px rgba(0,0,0,0.5);
+border-radius: 15px;
+background: rgba(255,155,155,0.1);
+overflow: hiddem;
+text-align: justify;
+font-family: cursive;}
+	
+Intro {font-size: 60px; font-weight: 100; margin-top:24px; margin-buttom: 15px;
+color: #232d60; display:inline-block; background: linear-gradient(45deg, #87adfe,#ff77cd);
+boarder radius:6px; padding: 10px 20px; box-sizing: border-box; text-decoration: none;
+color: #fff; box-shadow: 3px 8px 22px rgba(94,28,68,0.15);}
+
+
+q1 {display:inline-block; background: linear-gradient(45deg, #87adfe,#ff77cd);
+boarder radius:6px; padding: 10px 20px; box-sizing: border-box; text-decoration: none;
+color: #fff; box-shadow: 3px 8px 22px rgba(94,28,68,0.15);}
+
+q2 {display:inline-block; background: linear-gradient(45deg, #87adfe,#ff77cd);
+boarder radius:6px; padding: 10px 20px; box-sizing: border-box; text-decoration: none;
+color: #fff; box-shadow: 3px 8px 22px rgba(94,28,68,0.15);}
+
+q3{display:inline-block; background: linear-gradient(45deg, #87adfe,#ff77cd);
+boarder radius:6px; padding: 10px 20px; box-sizing: border-box; text-decoration: none;
+color: #fff; box-shadow: 3px 8px 22px rgba(94,28,68,0.15);}
+
+
+Information{     font-size: 16pt;
+    border: 2px solid #ca6565;
+    background-color: #c186aa;
+    margin-left: 3px;
+    padding: 2px;
+    color: initial; }
+
+
+
+
+logo { background-image: url(image/loggggo.JPG);
+    color: transparent;
+    background-size: cover;
+    height: 39%;
+    width: 27%;
+    position: absolute;
+    top: 1%;
+    right: 10px;
+    float: initial;}
+
+songName:hover {
+  transform: scale(1); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+}
+songName[songID="S1"]{
+         background-image: url(image/beautiful2.jpg);
+    border-radius: 42%;
+    color: transparent;
+    background-size: cover;
+    height: 71%;
+    width: 46%;
+    position: absolute;
+    top: 166%;
+    left: 589px;
+    filter: grayscale(100%);
+    float: left;
+    padding: 10px;
+	
+}
+
+songName[songID="S2"] {  background-image: url(image/godzilla.jpg);
+    border-radius: 17%;
+    color: transparent;
+    background-size: cover;
+    height: 71%;
+    width: 46%;
+    position: absolute;
+    top: 358%;
+    left: 589px;
+    float: left;
+    padding: 10px;
+	}
+
+songName[songID="S3"] {  background-image: url(image/junkiri.jpg);
+    border-radius: 17%;
+    color: transparent;
+    background-size: cover;
+    height: 71%;
+    width: 46%;
+    position: absolute;
+    top: 551%;
+    left: 589px;
+    float: left;
+    padding: 10px;
+	}
+
+songName[songID="S4"] {  background-image: url(image/mess.jpg);
+    border-radius: 17%;
+    color: transparent;
+    background-size: cover;
+    height: 71%;
+    width: 46%;
+    position: absolute;
+    top: 744%;
+    left: 589px;
+    float: left;
+    padding: 10px;
+	}
+	
+songName[songID="S5"] {  background-image: url(image/tightrope.jpg);
+    border-radius: 17%;
+    color: transparent;
+    background-size: cover;
+    height: 71%;
+    width: 46%;
+    position: absolute;
+    top: 939%;
+    left: 589px;
+    float: left;
+    padding: 10px;
+	filter: grayscale(100%);
+	}
+	
+songName[songID="S6"] {  background-image: url(image/savetear.jpg);
+    border-radius: 17%;
+    color: transparent;
+    background-size: cover;
+    height: 71%;
+    width: 46%;
+    position: absolute;
+    top: 1132%;
+    left: 589px;
+    float: left;
+    padding: 10px;
+	}
+
+songName[songID="S7"] {  background-image: url(image/congeratulation2.jpg);
+    border-radius: 23%;
+    color: transparent;
+    background-size: cover;
+    height: 71%;
+    width: 46%;
+    position: absolute;
+    top: 1326%;
+    left: 589px;
+    float: left;
+	filter: grayscale(100%);
+    padding: 10px;
+	}
+	
+songName[songID="S8"] {  background-image: url(image/ibiza.jpg);
+	border-radius: 23%;
+    background-size: cover;
+    height: 71%;
+    width: 46%;
+    position: absolute;
+    top: 1515%;
+    left: 589px;
+    float: left;
+	filter: grayscale(100%);
+    padding: 10px;
+	}
+	
+songName[songID="S9"] {  background-image: url(image/rude2.jpg);
+    border-radius: 23%;
+    color: transparent;
+    background-size: cover;
+    height: 71%;
+    width: 46%;
+    position: absolute;
+    top: 1719%;
+    left: 589px;
+    float: left;
+	filter: grayscale(100%);
+    padding: 10px;
+	}
+	
+songName[songID="S10"] {  background-image: url(image/2pac2.jpg);
+    border-radius: 16%;
+    color: transparent;
+    background-size: cover;
+    height: 71%;
+    width: 46%;
+    position: absolute;
+    top: 1906%;
+    left: 589px;
+    float: left;
+	filter: grayscale(100%);
+    padding: 10px;
+	}
+	
+songName[songID="S11"] {  background-image: url(image/youdone2.jpg);
+    border-radius: 7%;
+    color: transparent;
+    background-size: cover;
+    height: 77%;
+    width: 43%;
+    position: absolute;
+    top: 2086%;
+    left: 589px;
+    float: left;
+	filter: grayscale(100%);
+    padding: 10px;
+	}
+	
+songName[songID="S12"] {  background-image: url(image/hmmmr.jpg);
+    border-radius: 35%;
+    background-size: cover;
+    height: 71%;
+    width: 46%;
+    position: absolute;
+    top: 2273%;
+    left: 589px;
+    float: left;
+	filter: grayscale(100%);
+    padding: 10px;
+	}
+	
+songName[songID="S13"] {  background-image: url(image/kaalo.jpg);
+    border-radius: 17%;
+    color: transparent;
+    background-size: cover;
+    height: 71%;
+    width: 54%;
+    position: absolute;
+    top: 2460%;
+    left: 589px;
+	filter: grayscale(100%);
+    float: left;
+    padding: 10px;
+	}
+	
+songName[songID="S14"] {  background-image: url(image/gucci.jpg);
+    border-radius: 15%;
+    color: transparent;
+    background-size: cover;
+    height: 71%;
+    width: 46%;
+    position: absolute;
+    top: 2648%;
+    left: 589px;
+    float: left;
+    padding: 10px;
+	}
+	
+songName[songID="S15"]  {  background-image: url(image/sad.jpg);
+    border-radius: 10%;
+    color: transparent;
+    background-size: cover;
+    height: 71%;
+    width: 46%;
+    position: absolute;
+    top: 2846%;
+    left: 589px;
+    float: left;
+    padding: 10px;
+	}
+	
+songName[songID="S16"] {     background-image: url(image/summer.jpg);
+    border-radius: 27%;
+    color: blanchedalmond;
+    background-size: cover;
+    height: 71%;
+    width: 46%;
+    position: absolute;
+    top: 3041%;
+    left: 589px;
+	filter: grayscale(100%);
+    float: left;
+    padding: 10px;
+	}*/
